@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+.exp {
+  font-size: 30px;
+  line-height: 1.3;
+}
+.box {
+  width: 600px;
+}
+.desc {
+  text-align: left;
+}
+body {
+  background-color: tan;
+}
+p {
+  line-height: 0.5;
+}
+.layout {
+  width: 100%;
+  display: flex;
+  gap: 100px;
+}
